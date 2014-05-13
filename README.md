@@ -104,7 +104,7 @@ Using the excellent article by Frank Caron as a starting point, here is some CSS
 }
 ```
 Which will yield a callout in the text that appears like this:
-![Callout example](http://www.clayharmon.com/images/callout.png)
+![Callout example](http://www.clayharmon.com/img/callout.png)
 
 ### Caveats and warnings
 
